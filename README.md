@@ -10,3 +10,6 @@ npm i
 npm start
 
 then access http://localhost:7778/
+
+# build
+npm run build
